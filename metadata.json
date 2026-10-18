@@ -1,0 +1,6 @@
+{
+  "name": "FC Online Auto Upgrade & Fodder Price Tool",
+  "description": "Công cụ auto nâng cấp cầu thủ FC Online, tự động lọc giá phôi rẻ nhất, tính toán tỉ lệ thành công và mô phỏng ép thẻ chuyên nghiệp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
